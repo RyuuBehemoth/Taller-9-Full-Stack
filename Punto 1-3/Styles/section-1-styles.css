@@ -20,6 +20,10 @@
     text-align: justify;
 }
 
+.section-1__card-down {
+    margin-top: 50px;
+}
+
 .section-1__card {
     display: flex;
     flex-direction: column;
