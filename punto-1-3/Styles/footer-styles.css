@@ -2,9 +2,9 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-
     margin-top: 120px;
     padding: 20px 100px;
+    padding-bottom: 100px;
     background-color: #010851;
     color: #fff;
 }
