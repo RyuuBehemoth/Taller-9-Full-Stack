@@ -1,6 +1,7 @@
 body {
+  background-color: #180266da;
   text-align: center;
-  color: #000000b5;
+  color: #ffffffb5;
   font-family: system-ui, -apple-system;
 }
 
@@ -41,7 +42,7 @@ li {
 
 p {
   margin: 40px 0 30px;
-  color: #000000ae;
+  color: #ffffffae;
   font-size: 17px;
   border-bottom: 1px solid;
 }
@@ -49,7 +50,7 @@ p {
 a {
   padding: 12px 25px;
   color: #ffffff;
-  background-color: #fd8f54e2;
+  background-color: #8417b6e2;
   border: none;
   border-radius: 5px;
   font-family: system-ui, -apple-system;
@@ -60,5 +61,5 @@ a {
 }
 
 a:hover {
-  background-color: #e87537e2;
+  background-color: #4e086ee2;
 }
