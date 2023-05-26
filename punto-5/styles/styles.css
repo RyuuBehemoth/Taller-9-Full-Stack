@@ -1,0 +1,35 @@
+div {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    font-size: 16px;
+    width: 660px;
+}
+
+#green {
+    color: green;
+}
+
+.red {
+    color: red;
+}
+
+#border_top {
+    border-top: 1px solid #000;
+}
+
+#big_letter {
+    font-size: 50px;
+}
+
+#blue {
+    color: blue;
+    font-size: 18px;
+}
+
+.underline {
+    text-decoration: underline;
+    font-size: 18px;
+}
