@@ -1,0 +1,27 @@
+header {
+    display: flex;
+    background-color: #d6afdc;
+    margin: 0px 492px;
+    padding: 10px 20px;
+}
+
+button {
+    color: #fff;
+    background: blue;
+    border: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    gap: 20px;
+    margin: 0px;
+    color: #fff;
+    list-style: none;
+    cursor: pointer;
+}
