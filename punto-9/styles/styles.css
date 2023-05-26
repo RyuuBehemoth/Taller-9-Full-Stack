@@ -1,0 +1,35 @@
+main {
+    background-color: yellow;
+    border: 1px solid #000;
+    width: 800px;
+    margin: 300px 300px;
+}
+
+table {
+    border-spacing: 0px;
+}
+
+th {
+    font-family: 'Jost';
+    color: red;
+    border-bottom: 1px solid #000;
+    width: 400px;
+    font-style: italic;
+}
+
+span {
+    font-weight: 600;
+    font-size: 12px;
+}
+
+td {
+    border-bottom: 1px solid #000;
+}
+
+.right_border {
+    border-right: 1px solid #000;
+}
+
+p {
+    margin: 0px;
+}
